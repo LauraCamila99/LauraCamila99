@@ -13,7 +13,7 @@
 
 👩‍💻 Desarrolladora Full Stack | JavaScript | React | Redux | Express | Node.js | PostgreSQL | Sequelize 👩‍💼
 
-Hola, Soy Laura Camila Tiusabá Gómez, de Bogotá,Colombia.
+Hola, Soy Laura Camila Tiusabá Gómez, de Bogotá D.C Colombia.
 
 💡🎓💼 Estudié Bioingeniería, una disciplina interdisciplinaria que combina los principios de la ingeniería, las ciencias biológicas y la medicina. Durante mis estudios, adquirí conocimientos en áreas como la programación informática, el análisis de datos biomédicos, la bioinformática y la biomecánica. Me apasiona la aplicación de la ingeniería para resolver desafíos en el campo de la salud y mejorar la calidad de vida de las personas.
 
@@ -27,8 +27,6 @@ Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo
  
  - 🌎 Mi primer trabajo grupal [COMPUTECH](https://github.com/LauraCamila99/CompuTech)
   <br>
-  <hr>
-  <h3>Tecnologías!!</h3> 
   
   <br>
   
