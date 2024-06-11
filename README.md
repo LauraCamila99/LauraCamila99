@@ -23,9 +23,9 @@ Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo
 
  ## Proyectos Realizados
  
- - 🏎 Mi primer trabajo individual [PI COUNTRIES]((https://github.com/LauraCamila99/Proyecto-Individual-Countries))
+ - 🌎 Mi primer trabajo individual [PI COUNTRIES](https://github.com/LauraCamila99/Proyecto-Individual-Countries)
  
- - 🌎 Mi primer trabajo grupal [COMPUTECH](https://github.com/LauraCamila99/CompuTech)
+ - 💻 Mi primer trabajo grupal [COMPUTECH](https://github.com/LauraCamila99/CompuTech)
   <br>
   
   <br>
