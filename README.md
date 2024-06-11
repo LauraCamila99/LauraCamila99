@@ -1,7 +1,13 @@
 
 #   ✨ Laura Camila Tiusabá Gómez👩‍💻
 
-[Laura's LinkedIn](https://www.linkedin.com/in/laura-tiusab%C3%A1-g%C3%B3mez-005614268/) | [Laura's GitHub](https://github.com/LauraCamila99)
+<a href="https://www.linkedin.com/in/laura-tiusab%C3%A1-g%C3%B3mez-005614268/">
+  <img align="left" alt="Laura's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/LauraCamila99">
+  <img align="left" alt="Laura's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 
 👩‍💻 Desarrolladora Full Stack | JavaScript | React | Redux | Express | Node.js | PostgreSQL | Sequelize 👩‍💼
 
@@ -13,27 +19,38 @@ Después de obtener experiencia laboral en proyectos relacionados con la bioinge
 
 Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo, donde he adquirido conocimientos sólidos en el desarrollo de páginas web. Tengo experiencia en backend utilizando tecnologías como Node.js, Express, y Axios, así como en el manejo de bases de datos con Sequelize y PostgreSQL. También tengo habilidades en frontend, especialmente con React y Redux. 
 
+ ## Proyectos Realizados
+ 
+ - 🏎 Mi primer trabajo individual [PI COUNTRIES]((https://github.com/LauraCamila99/Proyecto-Individual-Countries))
+ 
+ - 🌎 Mi primer trabajo grupal [COMPUTECH](https://github.com/ARagustinaramos/CompuTech/tree/Lau)
+  <br>
+  <hr>
+  <h3>Tecnologías!!</h3> 
+  
+  <br>
+  
+
 
 ## Tecnologías y Herramientas que Utilizo 🚀
-
-
- javascript html5 css3 react redux nodejs express postgresql git github vsCode
-- Desarrollo Frontend: 
-  - JavaScript: 
-  - React: :atom_symbol: Unicode: \U0000269B
-  - Redux: :loop: Unicode: \U0001F501
+   
+- Desarrollo Frontend:
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> Redux
 
 - Desarrollo Backend:
-  - Node.js: :computer: Unicode: \U0001F4BB
-  - Express: :bullet_train_side: Unicode: \U0001F684
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> Express
 
 - Bases de Datos:
-  - PostgreSQL: :floppy_disk: Unicode: \U0001F4BE
-  - PgAdmin: :bar_chart: Unicode: \U0001F4CA
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> PostgreSQL
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> PgAdmin
 
 - Otros:
-  - Axios: :outbox_tray: Unicode: \U0001F4E4
-  - Visual Studio Code: :computer_mouse: Unicode: \U0001F5B1
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/axios/axios.png"></code> Axios
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> Visual Studio Code
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> GitHub
 
 
 ## Contáctame 💬
