@@ -15,8 +15,11 @@ Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo
 
 
 ## Tecnologías y Herramientas que Utilizo 🚀
+
+
+ javascript html5 css3 react redux nodejs express postgresql git github vsCode
 - Desarrollo Frontend: 
-  - JavaScript: :deciduous_tree: Unicode: \U0001F332
+  - JavaScript: 
   - React: :atom_symbol: Unicode: \U0000269B
   - Redux: :loop: Unicode: \U0001F501
 
