@@ -50,7 +50,7 @@ Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo
 
 
 ## Contáctame 💬
-[Linkedin Badge](https://www.linkedin.com/in/laura-tiusab%C3%A1-g%C3%B3mez-005614268/) [Gmail Badge](lautiu9@gmail.com)
+[Linkedin Perfil](https://www.linkedin.com/in/laura-tiusab%C3%A1-g%C3%B3mez-005614268/) [Gmail](lautiu9@gmail.com)
 
 
 ✨Estoy lista para unirme a un equipo dinámico donde pueda aportar mis habilidades y seguir desarrollándome como profesional. ¡Conéctate conmigo para explorar oportunidades de colaboración y crecimiento!🌱
