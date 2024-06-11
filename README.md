@@ -8,6 +8,8 @@
   <img align="left" alt="Laura's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br/>
+<br/>
 
 👩‍💻 Desarrolladora Full Stack | JavaScript | React | Redux | Express | Node.js | PostgreSQL | Sequelize 👩‍💼
 
@@ -23,7 +25,7 @@ Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo
  
  - 🏎 Mi primer trabajo individual [PI COUNTRIES]((https://github.com/LauraCamila99/Proyecto-Individual-Countries))
  
- - 🌎 Mi primer trabajo grupal [COMPUTECH](https://github.com/ARagustinaramos/CompuTech/tree/Lau)
+ - 🌎 Mi primer trabajo grupal [COMPUTECH](https://github.com/LauraCamila99/CompuTech)
   <br>
   <hr>
   <h3>Tecnologías!!</h3> 
