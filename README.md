@@ -15,24 +15,22 @@ Soy un desarrollador Full Stack Junior recién graduado de un bootcamp intensivo
 
 
 ## Tecnologías y Herramientas que Utilizo 🚀
-
 - Desarrollo Frontend: 
-  - JavaScript: :javascript:
-  - React: :react:
-  - Redux: :redux:
+  - JavaScript: :deciduous_tree: Unicode: \U0001F332
+  - React: :atom_symbol: Unicode: \U0000269B
+  - Redux: :loop: Unicode: \U0001F501
 
 - Desarrollo Backend:
-  - Node.js: :nodejs:
-  - Express: :express:
+  - Node.js: :computer: Unicode: \U0001F4BB
+  - Express: :bullet_train_side: Unicode: \U0001F684
 
 - Bases de Datos:
-  - PostgreSQL: :postgresql:
-  - PgAdmin: :pgadmin:
+  - PostgreSQL: :floppy_disk: Unicode: \U0001F4BE
+  - PgAdmin: :bar_chart: Unicode: \U0001F4CA
 
 - Otros:
-  - Axios: :axios:
-  - Visual Studio Code: :vscode:
-
+  - Axios: :outbox_tray: Unicode: \U0001F4E4
+  - Visual Studio Code: :computer_mouse: Unicode: \U0001F5B1
 
 
 ## Contáctame 💬
